@@ -10,4 +10,6 @@
 
   <h3> Production/Staging/Pilot </h3>
     
-   
+  *How does Heroku benifit these testing enviroments above? ^^^*
+  
+  <p1>You are able to add these test environment 'definitions', onto the files, as well as adding scripts IF they are needed. Then, in the end, you are able to see it in the Pipline; the CI is already implemented into the Heroku Pipline. </p1>
