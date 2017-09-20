@@ -6,9 +6,9 @@
 
   <h3> QA </h3>
 
-  <h3> Pre-Production </h3>
+  <h3> Pre-Production/Staging/Pilot </h3>
 
-  <h3> Production/Staging/Pilot </h3>
+  <h3> Production </h3>
     
   *How does Heroku benifit these testing enviroments above? ^^^ Also, how would you use it for your next "online game project"?*
   
