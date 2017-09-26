@@ -17,6 +17,6 @@
   
   <h3>References:</h3>
   
-  <p>https://devcenter.heroku.com/articles/development-configuration
-https://devcenter.heroku.com/articles/multiple-environments
-https://devcenter.heroku.com/articles/deploying-to-a-custom-rails-environment</p>
+  <p>https://devcenter.heroku.com/articles/development-configuration</p>
+  <p>https://devcenter.heroku.com/articles/multiple-environments</p>
+  <p>https://devcenter.heroku.com/articles/deploying-to-a-custom-rails-environment</p>
