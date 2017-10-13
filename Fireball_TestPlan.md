@@ -2,8 +2,8 @@
 
 
 ### Fireball
-
-## 1. Genreal Information
+---
+## 1. General Information
   # Summary
   
    <p1>Fireball is a budget game for PS2. The player controls a ball of fire, and traverses a landscape
@@ -21,17 +21,20 @@
    
    # Environment/User community
    
-   <p2>User community is based upon PS2 owners. 
+   <p2>User community is based upon PS2 owners and PC owners. 
    The game will be tested in:
    Development, QA, Statging/Pilot, and Prouduction.</p2>
    
    # Test Objectives
-   <p3> </p3>  
+   <p3> State objectives to be accomplished by testing:
+      White box and black box, balance, 
+    </p3>  
    # Acceptance/Criteria
-   <p3> </p3>  
+   <p3> Estimated number of defect or internal test acceptance criteria </p3>  
    # References
-    <p3> </p3>    
-## 2. Plan
+    <p3> List any reference documents </p3>    
+    
+## Plan
 # Test Description
 Briefly describe what is being tested and any inputs needed for testing
 # Test Team
@@ -45,12 +48,12 @@ Personnel training, types of training/training staff- could include acceptance t
   
 ## Specifications/Evaluations
   <p4> </p4>
-Requirement Specifications○Business Rules/Functions
-List any business requirements (list)○Software/Game Functions
-List any software requirements (list)○Test/Function Relationships
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites○Test Progression
-Describe how progression is made from one test to another
+Requirement Specifications
+Business Rules/Functions List any business requirements (list)
+Software/Game Functions List any software requirements (list)
+Test/Function Relationships Match individual tests or test suites to requirements (this is usually a table)
+Beginning stages of developing your test suites
+Test Progression Describe how progression is made from one test to another
 
 Methods and Constraints○Test Methodology
 Describe testing strategy/types of testing or any other methodology○Extent of Testing
@@ -62,11 +65,12 @@ Test Suite  Function
 GameControls  The game shall allow the player to select X to Jump
 Game Controls The game shall allow the play to select O to shoot weapon
 Game Controls The game shall allow the player to select arrow up button to walk forward.
-
+___
 ## Review URL
 Single or multi?
   Single
 Modes?
+– Fun, Puzzle and Challenge
 Major functions?
 
 [https://www.gamasutra.com/view/feature/130127/design_document_play_with_fire.php]
