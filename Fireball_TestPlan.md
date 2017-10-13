@@ -4,6 +4,7 @@
 ### Fireball
 ---
 ## 1. General Information
+
   # Summary
   
    <p1>Fireball is a budget game for PS2. The player controls a ball of fire, and traverses a landscape
@@ -34,37 +35,45 @@
    # References
     <p3> List any reference documents </p3>    
     
-## Plan
-# Test Description
-Briefly describe what is being tested and any inputs needed for testing
-# Test Team
-Who is on the team and what is their role/assignment●Milestones○Testing Locations, events, test phases and dates of testing
-# Budgets
-Funds allocated to testing by task
-# Testing Requirements
-Resource requirements, equipment, software/hardware, tester with special skill set○Testing Materials/Test Tools
-Documentation you will use or produce or testing tools used○Test Training
-Personnel training, types of training/training staff- could include acceptance testing or playtesting 
-  
+  ## Plan
+  # Test Description
+  Briefly describe what is being tested and any inputs needed for testing
+  # Test Team
+  Who is on the team and what is their role/assignment●Milestones○Testing Locations, events, test phases and dates of testing
+  # Budgets
+  Funds allocated to testing by task
+  # Testing Requirements
+  Resource requirements, equipment, software/hardware, tester with special skill set○Testing Materials/Test Tools
+  Documentation you will use or produce or testing tools used○Test Training
+  Personnel training, types of training/training staff- could include acceptance testing or playtesting 
+
 ## Specifications/Evaluations
   <p4> </p4>
-Requirement Specifications
-Business Rules/Functions List any business requirements (list)
-Software/Game Functions List any software requirements (list)
-Test/Function Relationships Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
-Test Progression Describe how progression is made from one test to another
+  Requirement Specifications
+  Business Rules/Functions List any business requirements (list)
+  Software/Game Functions List any software requirements (list)
+  Test/Function Relationships Match individual tests or test suites to requirements (this is usually a table)
+  Beginning stages of developing your test suites
+  Test Progression Describe how progression is made from one test to another
 
-Methods and Constraints○Test Methodology
-Describe testing strategy/types of testing or any other methodology○Extent of Testing
-Full or partial testing and explanation○Constraints
-Describe any test condition constraints such as interfaces or data
+  Methods and Constraints○Test Methodology
+  Describe testing strategy/types of testing or any other methodology○Extent of Testing
+  Full or partial testing and explanation○Constraints
+  Describe any test condition constraints such as interfaces or data
 
-Example of Test Function Relationship
-Test Suite  Function
-GameControls  The game shall allow the player to select X to Jump
-Game Controls The game shall allow the play to select O to shoot weapon
-Game Controls The game shall allow the player to select arrow up button to walk forward.
+  Test Function Relationship:
+  
+  Test Suite  Function
+  ---
+  Game Controls  The game shall allow the player to select O & 'square' to Slam
+  ---
+  Game Controls  The game shall allow the player to select X to Jump
+  ---
+  Game Controls The game shall allow the play to select O to shoot weapon
+  ---
+  Game Controls The game shall allow the player to select arrow up button to walk forward.
+  ---
+  
 ___
 ## Review URL
 Single or multi?
