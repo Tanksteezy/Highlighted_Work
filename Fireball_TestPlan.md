@@ -28,7 +28,7 @@
    
    # Test Objectives
    <p3> State objectives to be accomplished by testing:
-      White box and black box, balance, 
+       
     </p3>  
    # Acceptance/Criteria
    <p3> Estimated number of defect or internal test acceptance criteria </p3>  
@@ -38,8 +38,12 @@
   ## Plan
   # Test Description
   Briefly describe what is being tested and any inputs needed for testing
+  
   # Test Team
-  Who is on the team and what is their role/assignment●Milestones○Testing Locations, events, test phases and dates of testing
+  Who is on the team and what is their role/assignment
+  ●Milestones
+  ○Testing Locations, events, test phases and dates of testing
+  
   # Budgets
   Funds allocated to testing by task
   # Testing Requirements
@@ -65,13 +69,23 @@
   
   Test Suite  Function
   ---
-  Game Controls  The game shall allow the player to select O & 'square' to Slam
+  Game Controls - The game shall allow the player to select **'O'** & **'square'** to Slam.
   ---
-  Game Controls  The game shall allow the player to select X to Jump
+  Game Controls - The game shall allow the player to select **'X'** to Jump.
   ---
-  Game Controls The game shall allow the play to select O to shoot weapon
+  Game Controls - The game shall allow the play to select **'Triangle'** to jump and tap down view.
   ---
-  Game Controls The game shall allow the player to select arrow up button to walk forward.
+  Game Controls - The game shall allow the player to select **'Start'** to pause and look at the map.
+  ---
+  Game Controls - The game shall allow the player to select **'Select'** to rest field.
+  ---
+  Game Controls - The game shall allow the player to select **'L1'** to roll left.
+  ---
+  Game Controls - The game shall allow the player to select **'R1'** to roll right.
+  ---
+  Game Controls - The game shall allow the player to select **'L2'** to turn left.
+  ---
+  Game Controls - The game shall allow the player to select **'R2'** to turn right.
   ---
   
 ___
