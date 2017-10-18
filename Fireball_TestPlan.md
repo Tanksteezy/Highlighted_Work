@@ -27,28 +27,28 @@
    Development, QA, Statging/Pilot, and Prouduction.</p2>
    
    # Test Objectives
-   <p3> State objectives to be accomplished by testing:
-       
-    </p3>  
+   <p3> State objectives to be accomplished by testing: Need to put the game through 
+   white box testing, black box testing; which are the main parts of this testing.</p3>  
    # Acceptance/Criteria
-   <p3> Estimated number of defect or internal test acceptance criteria </p3>  
-   # References
-    <p3> List any reference documents </p3>    
-    
+   <p3> Estimated number of defect or internal test acceptance criteria: 5? </p3>  
+   
   ## Plan
   # Test Description
   Briefly describe what is being tested and any inputs needed for testing
-  
+  Fireball
   # Test Team
-  Who is on the team and what is their role/assignment
+  Who is on the team and what is their role/assignment:
+  Analicia Lara
   ●Milestones
   ○Testing Locations, events, test phases and dates of testing
   
   # Budgets
   Funds allocated to testing by task
   # Testing Requirements
-  Resource requirements, equipment, software/hardware, tester with special skill set○Testing Materials/Test Tools
-  Documentation you will use or produce or testing tools used○Test Training
+  Resource requirements, equipment, software/hardware, tester with special skill set
+  ○Testing Materials/Test Tools
+  Documentation you will use or produce or testing tools used
+  ○Test Training
   Personnel training, types of training/training staff- could include acceptance testing or playtesting 
 
 ## Specifications/Evaluations
