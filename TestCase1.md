@@ -7,7 +7,7 @@
 * Test Case Name:
   * #Number
 * Component: 
-  * Description - the game you are testing
+  * Description
 * Test Case Designer:
   * Name
 * Creation Date:
@@ -23,7 +23,7 @@
 * Pre-Test Conditions:
   * Description
 ## Test Steps: 
-| # | Description | Expected Result | Check (√) | functionality|
+| # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
 | 1 | | | |			
 | 2 | | | |			
