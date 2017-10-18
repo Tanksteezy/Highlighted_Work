@@ -17,7 +17,7 @@
 * Modified Date:
   * 10/17/17
 * Requirements Covered:
-  * Description
+  * Description - movement
 * Test Description/Purpose:
   * Description
 * Pre-Test Conditions:
