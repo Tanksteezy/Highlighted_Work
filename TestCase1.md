@@ -3,25 +3,25 @@
 ## Test Details
 
 * Test Case ID:
-  * #Number
+  * #1.0
 * Test Case Name:
-  * #Number
+  * #1.0
 * Component: 
-  * Description
+  * PLEX - the game involves puzzles and moving blocks into certain patterns before you can proceed through it.
 * Test Case Designer:
-  * Name
+  * Analicia Lara
 * Creation Date:
-  * Date
+  * 10/17/17
 * Modified By:
-  * Name
+  * Analiica Lara
 * Modified Date:
-  * Date
+  * 10/17/17
 * Requirements Covered:
   * Description
 * Test Description/Purpose:
   * Description
 * Pre-Test Conditions:
-  * Description
+  * Description - what is neeed for the test run? What needs to happen prior?
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
