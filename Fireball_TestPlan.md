@@ -30,42 +30,50 @@
    <p3> State objectives to be accomplished by testing: Need to put the game through 
    white box testing, black box testing; which are the main parts of this testing.</p3>  
    # Acceptance/Criteria
-   <p3> Estimated number of defect or internal test acceptance criteria: 5? </p3>  
+   <p3> Test acceptance criteria: 5? </p3>  
    
   ## Plan
   # Test Description
   Briefly describe what is being tested and any inputs needed for testing
   Fireball
   # Test Team
-  Who is on the team and what is their role/assignment:
-  Analicia Lara
-  ●Milestones
-  ○Testing Locations, events, test phases and dates of testing
+  Who is on the team and what is their role/assignment?:
+  Analicia Lara - locations
+  Gabby - events
+  Ray  - test phases
+  Stephanie - dates of testing
+  Yvette - milestones
+  
   
   # Budgets
-  Funds allocated to testing by task
+  Funds allocated to testing by task :
+  19%
   # Testing Requirements
-  Resource requirements, equipment, software/hardware, tester with special skill set
-  ○Testing Materials/Test Tools
-  Documentation you will use or produce or testing tools used
-  ○Test Training
-  Personnel training, types of training/training staff- could include acceptance testing or playtesting 
+  ○GitHUb, Fireball Game Documentation, playstations, and a quiet working environment.
+  ○Test Plan .pdf
+  ○Acceptance testing 
 
 ## Specifications/Evaluations
-  <p4> </p4>
+  <p4> 
   Requirement Specifications
   Business Rules/Functions List any business requirements (list)
+  
   Software/Game Functions List any software requirements (list)
-  Test/Function Relationships Match individual tests or test suites to requirements (this is usually a table)
-  Beginning stages of developing your test suites
-  Test Progression Describe how progression is made from one test to another
 
-  Methods and Constraints○Test Methodology
-  Describe testing strategy/types of testing or any other methodology○Extent of Testing
-  Full or partial testing and explanation○Constraints
+  Test Progression is combined with regression testing, functionallity, and user acceptance testing. 
+  Progression needs to go through steps, steady or not, to determine what has changed between the time frames. 
+  
+  </p4>
+
+  Methods and Constraints
+  ○Test Methodology
+  Describe testing strategy/types of testing or any other methodology
+  ○Extent of Testing
+  Full or partial testing and explanation
+  ○Constraints
   Describe any test condition constraints such as interfaces or data
 
-  Test Function Relationship:
+  **Test Function Relationship:
   
   Test Suite  Function
   ---
@@ -96,4 +104,5 @@ Modes?
 – Fun, Puzzle and Challenge
 Major functions?
 
+# Resources
 [https://www.gamasutra.com/view/feature/130127/design_document_play_with_fire.php]
