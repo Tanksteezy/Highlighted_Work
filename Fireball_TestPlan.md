@@ -49,7 +49,7 @@
   Funds allocated to testing by task :
   19%
   # Testing Requirements
-  ○GitHUb, Fireball Game Documentation, playstations, and a quiet working environment.
+  ○GitHub, Fireball Game Documentation, playstations, and a quiet working environment.
   ○Test Plan .pdf
   ○Acceptance testing 
 
@@ -58,10 +58,10 @@
   Requirement Specifications
   Business Rules/Functions List any business requirements (list)
   
-  ○ Must be organized
-  ○ Must be on time with testing
-  ○ Must be enegergized 
-  ○ Must work as a team
+  * Must be organized
+  * Must be on time with testing
+  * Must be enegergized 
+  * Must work as a team
   
   Software/Game Functions List any software requirements (list)
   
