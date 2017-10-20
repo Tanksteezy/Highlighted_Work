@@ -49,9 +49,9 @@
   Funds allocated to testing by task :
   19%
   # Testing Requirements
-  ○GitHub, Fireball Game Documentation, playstations, and a quiet working environment.
-  ○Test Plan .pdf
-  ○Acceptance testing 
+  * GitHub, Fireball Game Documentation, playstations, and a quiet working environment.
+  * Test Plan .pdf
+  * Acceptance testing 
 
 ## Specifications/Evaluations
   <p4> 
@@ -65,9 +65,9 @@
   
   Software/Game Functions List any software requirements (list)
   
-  ○ Describe input of software
-  ○ Describe output of software
-  ○ Describe all functions performed by input or ouput
+  * Describe input of software
+  * Describe output of software
+  * Describe all functions performed by input or ouput
   
   Test Progression is combined with regression testing, functionallity, and user acceptance testing. 
   Progression needs to go through steps, steady or not, to determine what has changed between the time frames. 
@@ -75,10 +75,10 @@
   </p4>
 
   Methods and Constraints
-  ○ The gudelines are the test plan itself inlvovling the objective and environments
-  ○Extent of Testing
+  * The gudelines are the test plan itself inlvovling the objective and environments
+  * Extent of Testing
   Full testing to ensure the existing functionalities work fine.
-  ○Constraints
+  * Constraints
   **Interface** - completely self-contained, such as movement of data between systems.
   
   **Test Function Relationship:
