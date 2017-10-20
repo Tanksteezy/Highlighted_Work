@@ -23,7 +23,7 @@ The main objective is to find out what happened to the characters wife.
 The flow is nice as well as the balance and usability. The game did give off some anxiety moments which can affect some players 
 ,but that would not neccassarly keep them from playing by how interesting the game is. 
 ### Single/Multiplayer
-Single PLayer
+Single Player
 ### Controls (XBOX ONE)
 * Shoot and Aim - LT & RT
 * Run - Pushed in Left analogue stick
