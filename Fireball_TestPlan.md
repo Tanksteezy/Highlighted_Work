@@ -75,13 +75,12 @@
   </p4>
 
   Methods and Constraints
-  ○Test Methodology
-  Describe testing strategy/types of testing or any other methodology
+  ○ The gudelines are the test plan itself inlvovling the objective and environments
   ○Extent of Testing
-  Full or partial testing and explanation
+  Full testing to ensure the existing functionalities work fine.
   ○Constraints
-  Describe any test condition constraints such as interfaces or data
-
+  **Interface** - completely self-contained, such as movement of data between systems.
+  
   **Test Function Relationship:
   
   Test Suite  Function
@@ -111,7 +110,6 @@ Single or multi?
   Single
 Modes?
 – Fun, Puzzle and Challenge
-Major functions?
 
 # Resources
 [https://www.gamasutra.com/view/feature/130127/design_document_play_with_fire.php]
