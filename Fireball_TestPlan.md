@@ -58,8 +58,17 @@
   Requirement Specifications
   Business Rules/Functions List any business requirements (list)
   
+  ○ Must be organized
+  ○ Must be on time with testing
+  ○ Must be enegergized 
+  ○ Must work as a team
+  
   Software/Game Functions List any software requirements (list)
-
+  
+  ○ Describe input of software
+  ○ Describe output of software
+  ○ Describe all functions performed by input or ouput
+  
   Test Progression is combined with regression testing, functionallity, and user acceptance testing. 
   Progression needs to go through steps, steady or not, to determine what has changed between the time frames. 
   
