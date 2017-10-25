@@ -17,11 +17,11 @@
 * Modified Date:
   * 10/17/17
 * Requirements Covered:
-  * Description - movement // Game Engine, New Game, Save Game, Load Game, and Play Driver???
+  * Description - Game Engine, New Game, Save Game, Load Game, and Play Driver
 * Test Description/Purpose:
-  * Description - Explain requisitions and rationales process
+  * Description - No errors are needed to happen; if there is, that is why we test. Ensure there are no errors so that all of our tests go through.Explain requisitions and rationales process
 * Pre-Test Conditions:
-  * Description - what is needed for the test run? What needs to happen prior? No errors are needed to happen; if there is, that is why we test. Ensure there are no errors so that all of our tests go through.
+  * Description - Explain requisitions and rationales process
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
