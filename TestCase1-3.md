@@ -73,7 +73,7 @@
 | --- | --- | --- | --- |
 | 1 |Menu Driver | Load the appropriate menu when asked, etc.| √ |			
 | 2 |Game Logic| In charge of ALL the game logic, game boards, and game play variables, etc.| x|			
-| 3 |Graphic Driver|: Load all of the game graphics, etc.| √|			
+| 3 |Graphic Driver| Load all of the game graphics, etc.| √|			
 | 4 |  Music Driver|Load all of the game music, etc. | √|			
 | 5 |Timer Requirements | Start the timer when the game is started, etc.| x|			
 	
@@ -121,7 +121,7 @@
 | 2 |  Database Timeout Driver|  Check to see how much time has passed since the user last entered some kind of input and log them out if that time surpasses x seconds, etc.| x|			
 | 3 | Movie Driver| Load information about movies, etc.| √|			
 | 4 | Non-Functional|PLEX will come with a HTML and CHM instruction manual, etc.| √|			
-| 5 |Non-Requirements | : Users do not HAVE to have a chat feature. This is an optional feature for build mode, etc.| x|			
+| 5 |Non-Requirements |  Users do not HAVE to have a chat feature. This is an optional feature for build mode, etc.| x|			
 	
 
 ## Overall Test Status:
