@@ -25,16 +25,12 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 |Game Engine |dddddddddddddddddddddddddddddd | |			
-| 2 | | | |			
-| 3 | | | |			
-| 4 | | | |			
-| 5 | | | |			
-| 6 | | | |			
-| 7 | | | |			
-| 8 | | | |			
-| 9 | | | |			
-| 10 | | | |			
+| 1 |Game Engine | Must be first thing that starts when game is turned on| √ |			
+| 2 | New Game| only works in story mode| x|			
+| 3 | Save Game| The file name for the game must be valid so it can be read back in at a later time| √|			
+| 4 | Load Game|The file exists. | √|			
+| 5 |Play Driver | Pause the game.| x|			
+	
 
 ## Overall Test Status:
 
@@ -43,8 +39,8 @@
 ## Run History:
 | # |	Run Date |	Run By |	Results |
 | --- | --- | --- | --- |
-| 1 | | | |			
-| 2 | | | |			
-| 3 | | | |			
+| 1 | 10/15/2017| Analicia|√|			
+| 2 |10/16/2017 | Analicia| x|			
+| 3 | 10/17/2017| Analicia|√|		
 
 
