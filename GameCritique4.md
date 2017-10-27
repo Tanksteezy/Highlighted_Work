@@ -14,17 +14,17 @@ Kenneth Johnson
 ## Publishing Date
 October 2007  for mobile/ Card game overall, 1982
 # Synopsis
-<p>Phase 10 is a randomized card game played with a group of people that need to complete the 10 different phases. 
-Whoever completes it first, wins.</p>
+Phase 10 is a randomized card game played with a group of people that need to complete the 10 different phases. 
+Whoever completes it first, wins.
 
 # Game Play Summary
 ## Playability
-<p>The game is playable for certain people. Most people would not like the one aspect of the game 
-which is educational, however it is just like another card game; just a little more complex then that. </p>
+The game is playable for certain people. Most people would not like the one aspect of the game 
+which is educational, however it is just like another card game; just a little more complex then that. 
 ### Single/Multiplayer
-<p> Multiplayer </p>
+ Multiplayer 
 ### Controls
-<p> Keep the cards to yourself </p>
+ Keep the cards to yourself 
 # Bugs
 <p> The rules could be a little more specific. For example, when a phase is completed by one person, 
   does the game automatically end after, or that is depending on the next turn wheather they have a completed
