@@ -19,17 +19,18 @@ Whoever completes it first, wins.</p>
 
 # Game Play Summary
 ## Playability
-
+<p> The game is playable for certain people. Most people would not like the one aspect of the game 
+which is educational, however it is just like another card game; just a little more complex then that. </p>
 ### Single/Multiplayer
 <p> Multiplayer </p>
 ### Controls
 <p> Keep the cards to yourself </p>
 # Bugs
-<p> The rules could be a little more specific. The rules are the phases that are needed to complete the game
-however, the rules need to be more in depth.
-For example, when a phase is completed by one person, does the game automatically end after, or that is depending on the next turn wheather 
-or not the next player has completed a phase as well?</p>
+<p> The rules could be a little more specific. For example, when a phase is completed by one person, 
+  does the game automatically end after, or that is depending on the next turn wheather they have a completed
+  phase as well or not? Phase 10 does include specific rules, but that is one i was always curious about.</p>
 # Final Thoughts
 <p> The game is appealing to party groups.
 Great for family and friends; especially those who are competitive. There is math involved, 
-therefore, there is a bit of learing in the game. </p>
+therefore, there is a bit of education in the game, which can turn some heads away. Although, 
+once the player wraps their head around the game, it becomes fun and they want to win.</p>
