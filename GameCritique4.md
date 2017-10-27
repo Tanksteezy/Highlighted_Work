@@ -19,7 +19,7 @@ Whoever completes it first, wins.</p>
 
 # Game Play Summary
 ## Playability
-<p> The game is playable for certain people. Most people would not like the one aspect of the game 
+<p>The game is playable for certain people. Most people would not like the one aspect of the game 
 which is educational, however it is just like another card game; just a little more complex then that. </p>
 ### Single/Multiplayer
 <p> Multiplayer </p>
