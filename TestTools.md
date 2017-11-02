@@ -9,3 +9,6 @@
 * **Wave Test Manager** allows tester to link requirements or defects to test cases.
   
 * The **Wave Test Manager** is an automated tool, however, not sure about it being web-based. No language stated.
+
+
+*<p1>Sources: http://www.badboy.com.au/ & http://www.softwaretestingclass.com/software-testing-tools-list/ </p>
