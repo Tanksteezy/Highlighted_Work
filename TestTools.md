@@ -4,7 +4,7 @@
 # BadBoy Software
 ### Give at least 3 features of this test tool.
 
-* The Wave Test Manager, manages and runs the **BadBoy** tests, coordinates, schedules, runs and stores results.**
+* The **Wave Test Manager**, manages and runs the **BadBoy** tests, coordinates, schedules, runs and stores results.**
   
 * **Wave Test Manager** allows tester to link requirements or defects to test cases.
   
