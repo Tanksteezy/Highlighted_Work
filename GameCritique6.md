@@ -21,7 +21,7 @@ Cooking Mama was not only appealing to the eye but also very fun to play. When s
 ### Single/Multiplayer
 Can play single and multie player!
 ### Controls
-Flick and click of a stylist
+Flick and click of a stylist (any type of movement with the stylists)
 # Bugs
 There were no bugs when I had played it, however, there were people who claimed to have had bugs by seeing glitchy lines on the bottom half of the Nintendo DS  when the game first came out. Also, when i attempted to play Cooking Mama 2 on a 3DS, (newer platform then), the game would have trouble loading sometimes, so I had to eject it and put it back in until the 3DS read the game.
 # Final Thoughts
