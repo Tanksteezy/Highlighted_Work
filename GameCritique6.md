@@ -1,5 +1,5 @@
 ## Game Title
-Cooking Mama
+Cooking Mama 2: Dinner With Friends
 ## Game Type
 Simulation, Miscellaneous, General, Virtual, and Career.
 ## Platform
