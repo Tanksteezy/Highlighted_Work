@@ -16,7 +16,7 @@ Nintendo, Atari, Namco, etc.
 1980
 # Synopsis
 Pacman is an arcade, maze game that comes with dots and enemy ghost. The player is put through 
-challeneges by teach level. As the player procceeds, each level becomes more challenging. 
+challenges by teach level. As the player proceeds, each level becomes more challenging. 
 
 # Game Play Summary
 ## Playability
@@ -37,8 +37,8 @@ I didn't have any bugs, however, supposedly ther is a bug if the player goes ont
 It is a glitch that prevents the player to complete the board,
 where it will cause an overflow in the 8-bit byte distinct values. 
 As a result, the final board is unplayable, with the right half replaced by a series of garbled symbols and letters.
-# Final Thoughtsanged.
-The game is regarded as one of the most influential video games of all time. Anyone and evryone has heard of or played 
-Pacman. The game is playable, almost too easy but still challenges the player to keep playing and stay eng
+# Final Thoughts
+The game is regarded as one of the most influential video games of all time. Anyone and everyone has heard of or played 
+Pacman. The game is playable, almost too easy but still challenges the player to keep playing and stay engaged
 # References
 http://errors.wikia.com/wiki/Pac_Man_-_Infamous_Kill_Screen_Bug
