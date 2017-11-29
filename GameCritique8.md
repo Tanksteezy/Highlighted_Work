@@ -26,19 +26,19 @@ make the player feel smart once they get the hang of the game.
 ### Single/Multiplayer
 Multiplayer 
 ### Controls (Xbox One)
-Move - left analog stick
-Look - right analog stick 
-Pause/Exit menu - start button
-Primary fire - RT (Right Trigger) 
-Secondary fire - LT (Left Trigger)
-reload - 'X' 
-crouch - 'B'
-melee - Press right analog
-jump = 'A'
-Abilities - LB (Left Bumper) & RB (Right Bumper)
-Hero Details - Left Dpad
-Communication Menu - Down Dpad
-Next Weapon - Right Dpad
+* Move - left analog stick
+* Look - right analog stick 
+* Pause/Exit menu - start button
+* Primary fire - RT (Right Trigger) 
+* Secondary fire - LT (Left Trigger)
+* Reload - 'X' 
+* Crouch - 'B'
+* Melee - Press right analog
+* Jump = 'A'
+* Abilities - LB (Left Bumper) & RB (Right Bumper)
+* Hero Details - Left Dpad
+* Communication Menu - Down Dpad
+* Next Weapon - Right Dpad
 
 
 # Bugs
@@ -47,5 +47,6 @@ Sometimes an object from the map will get stuck by my characters feet.
 # Final Thoughts
 Overwatch is a world wide game that has attracted so much attention, that everyone knows of the game or has played it;
 it is an appealing game with loveable characters. The gameplay is addtictive yet frustrating. However, it never makes
-the player stop playing. The game requires the users to work as a team which can go well sometimes, but it can also go bad. 
+the player stop playing. The game requires the users to work as a team which can go well sometimes, but it can also go bad;
+which can make the player learn from some mistakes.
 
