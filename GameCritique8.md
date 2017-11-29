@@ -34,7 +34,7 @@ Multiplayer
 * Reload - 'X' 
 * Crouch - 'B'
 * Melee - Press right analog
-* Jump = 'A'
+* Jump - 'A'
 * Abilities - LB (Left Bumper) & RB (Right Bumper)
 * Hero Details - Left Dpad
 * Communication Menu - Down Dpad
