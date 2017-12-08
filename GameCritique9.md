@@ -15,7 +15,7 @@ PopCap Games
 December 15th, 2011
 # Synopsis
 Plants VS Zombies on mobile is a single-player strategy game. The player is needed to defend their
-home from zombies with different kinds of plants. As the player progresses through each level, the enemies become more challening.
+home from zombies with different kinds of plants. As the player progresses through each level, the enemies become more challenging.
 
 
 # Game Play Summary
@@ -41,6 +41,7 @@ Tall-nut and have to go over the ladder again.
 
 # Final Thoughts
 Plants VS Zombies is a well balance game that increasingly challenges the player, which encourages them to want to keep playing. 
-
+However, as a consumer, it can be frustrating how they enforce the player to buy more levels or coins to better your stratedy or to 
+play another level; smart for kids because they will annoy their parents about it. Overall, the game is playable.
 
 
